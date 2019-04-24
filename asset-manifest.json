@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/couple_card/static/css/main.4f43c2bf.chunk.css",
+    "main.css": "/couple_card/static/css/main.37675daf.chunk.css",
     "main.js": "/couple_card/static/js/main.9144f2d5.chunk.js",
     "main.js.map": "/couple_card/static/js/main.9144f2d5.chunk.js.map",
     "runtime~main.js": "/couple_card/static/js/runtime~main.526a9a17.js",
@@ -9,10 +9,10 @@
     "static/js/2.961c9d6f.chunk.js": "/couple_card/static/js/2.961c9d6f.chunk.js",
     "static/js/2.961c9d6f.chunk.js.map": "/couple_card/static/js/2.961c9d6f.chunk.js.map",
     "index.html": "/couple_card/index.html",
-    "precache-manifest.b941e81557cc70058c5dfd46fff0d0f8.js": "/couple_card/precache-manifest.b941e81557cc70058c5dfd46fff0d0f8.js",
+    "precache-manifest.88cdd82f73548fb21899b82e4beac5ac.js": "/couple_card/precache-manifest.88cdd82f73548fb21899b82e4beac5ac.js",
     "service-worker.js": "/couple_card/service-worker.js",
     "static/css/2.bd7b3daf.chunk.css.map": "/couple_card/static/css/2.bd7b3daf.chunk.css.map",
-    "static/css/main.4f43c2bf.chunk.css.map": "/couple_card/static/css/main.4f43c2bf.chunk.css.map",
+    "static/css/main.37675daf.chunk.css.map": "/couple_card/static/css/main.37675daf.chunk.css.map",
     "static/media/semantic.min.css": "/couple_card/static/media/outline-icons.ef60a4f6.woff",
     "static/media/mingbbu.jpg": "/couple_card/static/media/mingbbu.49f42d12.jpg"
   }
