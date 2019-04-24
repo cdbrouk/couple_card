@@ -1,0 +1,13 @@
+.Menubar{
+    position : fixed;
+    display : flex;
+    justify-content: space-between;
+    width : 200px;
+    height: 150px;
+    bottom : 0;
+    padding : 40px 20px 40px 25px;
+    left : 50%;
+    transform: translateX(-50%);
+    border: 3px solid #4e7ccc;
+    border-radius: 25px;
+}

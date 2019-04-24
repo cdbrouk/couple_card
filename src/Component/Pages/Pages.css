@@ -1,0 +1,39 @@
+.Pages__Box{
+    margin:0 auto;
+    margin-top: 70px;
+    width: 620px;
+    height: 300px;
+    box-shadow: 3px 3px 8px rgba(99, 164, 202, 0.3);
+    display: flex;
+    flex-direction: row;
+}
+
+.Pages__IconBox{
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 30px;
+    width: 20%;
+    height: 100%;
+}
+
+.Pages__IntroBox{
+    margin-top:25px;
+    padding: 20px;
+    width: 75%;
+    text-align: left;
+}
+
+.Pages__Contents{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #ff9c9c;
+}
+
+.icons{
+    cursor: pointer;
+}
+
+.icons:hover{
+    color: #ff990f !important;
+}

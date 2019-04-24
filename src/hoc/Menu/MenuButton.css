@@ -1,0 +1,42 @@
+.Intro{
+    width : 70px;
+    height: 70px;    
+    padding : 10px 10px;
+    color:  #fb4f4f;
+    font-weight: bold;
+    font-size: 20px;
+    border: 3px solid #fb4f4f;
+    border-radius: 15px;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.Intro:hover{
+    transform: scale(1.1);
+}
+
+.Pages{
+    width : 70px;
+    height: 70px;
+    padding : 10px 10px;
+    color : #fc6791;
+    font-weight: bold;
+    font-size: 20px;
+    border : 3px solid #fc6791;
+    border-radius: 15px;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.Pages:hover{
+    transform: scale(1.1);
+}
+
+.MenuText{
+    left: 50%;
+    transform: translateX(-50%);
+}
